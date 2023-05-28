@@ -4,4 +4,5 @@ project Aplikasi Toko Madam Bakery yang menjual berbagai jenis kue.
 
 ## SCREENSHOT DARI APLIKASI
 
-![Logo](flutter_01.png "Tampilan Awal Ketika Membuka Aplikasi")
+###Tampilan Awal Ketika Membuka Aplikasi
+<img src="flutter_01.png" alt="Tampilan Awal Ketika Membuka Aplikasi" width="300">
