@@ -3,12 +3,11 @@
 project Aplikasi Toko Madam Bakery yang menjual berbagai jenis kue.
 
 ## SCREENSHOT DARI APLIKASI
-
-1. Tampilan Awal Ketika Membuka Aplikasi 
-<img src="flutter_01.png" alt="Alt Text 1" width="200">
-
-2. Tampilan SIGN IN 
-<img src="flutter_02.png" alt="Alt Text 2" width="200">
+1. Tampilan Awal Ketika Membuka Aplikasi     |       2. Tampilan SIGN IN 
+<div style="display: flex;">
+    <img src="flutter_01.png" alt="Alt Text 1" style="flex: 50%; padding: 5px;" width="100">
+    <img src="flutter_02.png" alt="Alt Text 2" style="flex: 50%; padding: 5px;" width="100">
+</div>
 
 3. Tampilan SIGN UP 
 <img src="flutter_03.png" alt="Alt Text 3" width="200">
