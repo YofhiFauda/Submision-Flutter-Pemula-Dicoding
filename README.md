@@ -25,4 +25,6 @@ project Aplikasi Toko Madam Bakery yang menjual berbagai jenis kue.
 <img src="flutter_07.png" alt="Alt Text 7" width="150">
 
 
+
+
 ***TERIMA KASIH SUDAH BERKUNJUNG***
