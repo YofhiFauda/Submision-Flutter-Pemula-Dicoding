@@ -2,6 +2,35 @@
 
 project Aplikasi Toko Madam Bakery yang menjual berbagai jenis kue.
 
+- lib
+  - detail_screen
+    - details 
+      - body.dart
+      - description.dart
+      - product_title_with_image.dart
+    - detail_screen.dart
+  - home_screen
+    - details
+      - body.dart
+      - category.dart
+      - item.dart
+    - navigation
+      - sidebar.dart
+    - home_page.dart
+  - login_screen
+    - login_page.dart
+    - sign_in.dart
+    - sign_up.dart
+  - model
+    - constants.dart
+    - product.dart
+  - widget
+    - card_checkout.dart
+    - check_out.dart
+    - search_box.dart
+  - main.dart
+
+
 ## SCREENSHOT DARI APLIKASI
 1. Tampilan Awal Ketika Membuka Aplikasi 
 <img src="flutter_01.png" alt="Alt Text 1" width="150">
@@ -23,8 +52,6 @@ project Aplikasi Toko Madam Bakery yang menjual berbagai jenis kue.
 
 7. Tampilan Halaman Checkout
 <img src="flutter_07.png" alt="Alt Text 7" width="150">
-
-
 
 
 ***TERIMA KASIH SUDAH BERKUNJUNG***
