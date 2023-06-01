@@ -2,6 +2,7 @@
 
 project Aplikasi Toko Madam Bakery yang menjual berbagai jenis kue.
 
+## Project Structure
 - lib
   - detail_screen
     - details 
